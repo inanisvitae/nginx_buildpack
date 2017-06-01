@@ -1,3 +1,5 @@
+# ONLY WORKS WITH cedar-14 on Heroku platform
+
 # Heroku Buildpack: NGINX
 
 Nginx-buildpack vendors NGINX inside a dyno and connects NGINX to an app server via UNIX domain sockets.
